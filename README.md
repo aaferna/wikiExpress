@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gusgeek/wikiExpress/main/logo.svg" width="250">
+<img src="https://raw.githubusercontent.com/gusgeek/wikiExpress/main/logo.png" width="250">
   <br>
   Maneja Wikipedia de forma Express
 </p>
